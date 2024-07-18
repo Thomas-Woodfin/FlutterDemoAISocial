@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "431348175520",
+    "project_id": "aisocial-cec15",
+    "storage_bucket": "aisocial-cec15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431348175520:android:a17fcf8a321ae4d21defc5",
+        "android_client_info": {
+          "package_name": "com.app.aisocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTF-bI1u_NQS8lK27Mi1GoMUWctYbcoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431348175520-7agian6d22jbc4jggv9ijpr3qjggamiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aisocial.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431348175520:android:e79247eefaa45db71defc5",
+        "android_client_info": {
+          "package_name": "com.tbl.ai_social_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTF-bI1u_NQS8lK27Mi1GoMUWctYbcoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431348175520-7agian6d22jbc4jggv9ijpr3qjggamiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aisocial.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431348175520:android:86955805f67024fa1defc5",
+        "android_client_info": {
+          "package_name": "com.tbl.aibuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTF-bI1u_NQS8lK27Mi1GoMUWctYbcoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431348175520-7agian6d22jbc4jggv9ijpr3qjggamiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aisocial.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431348175520:android:627bc9717f5642591defc5",
+        "android_client_info": {
+          "package_name": "thomas.pushnotificationssample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTF-bI1u_NQS8lK27Mi1GoMUWctYbcoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431348175520-3di95j6ake6bsismn3a4vkthjeoqpgtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431348175520-7agian6d22jbc4jggv9ijpr3qjggamiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aisocial.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
