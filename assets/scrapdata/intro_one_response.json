@@ -1,0 +1,31 @@
+{
+  "status": "200",
+  "message": "Data fetched successfully",
+  "data": [
+    {
+      "title": "1. Write clear instructions:",
+      "subtitle": "• Include details in your prompt to get more relevant answers.\n• Specify the steps required to complete a task\n• Provide examples.",
+      "img": "assets/images/ic_intro_screen_img_one.svg"
+    },
+    {
+      "title": "2. Provide reference text:",
+      "subtitle": "• Instruct ChatGPT to answer using a reference text, such as a link to a PDF or a website\n• Instruct ChatGPT to answer with citations from a reference text",
+      "img": "assets/images/ic_intro_screen_img_two.svg"
+    },
+    {
+      "title": "3. Split complex tasks into simpler subtasks:",
+      "subtitle": "• Since there is a limit on how much text you can insert into ChatGPT, summarize long documents piece by piece to stay within the limit.\n• For prompts that involve multiple instructions, try breaking the prompts into smaller chunks.",
+      "img": "assets/images/ic_intro_screen_img_three.svg"
+    },
+    {
+      "title": "4. Give ChatGPT some time to think:",
+      "subtitle": "• Instruct ChatGPT to work out its own solution before rushing to a conclusion.\n• Ask ChatGPT if it missed anything on previous passes.",
+      "img": "assets/images/ic_intro_screen_img_four.svg"
+    },
+    {
+      "title": "5. Test changes systematically:",
+      "subtitle": "• Evaluate ChatGPT’s outputs with reference to gold-standard answers",
+      "img": "assets/images/ic_intro_screen_img_five.svg"
+    }
+  ]
+}
